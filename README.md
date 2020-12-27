@@ -6,6 +6,11 @@ Collection of self-compiled Linux VST plugins that I used in my music production
 - [Bitrot Plugins Suite](https://github.com/grejppi/bitrot) by grejppi
 - [StereoKnob](https://github.com/sharki13/stereoknob) by sharki13
 - [Magical8bitPlug2](https://github.com/yokemura/Magical8bitPlug2) by yokemura
+- [CHOW Tape Model](https://github.com/jatinchowdhury18/AnalogTapeModel) by ChowDSP
+- [CTAGDRC](https://github.com/p-hlp/CTAGDRC) by p-hlp
 
 ## Installation
-Clone this repository and copy to your VST folder, usually `~/.vst` or `/usr/lib/vst` (required sudo)
+- Clone this repository
+- Copy to your VST/VST3 folder
+    * VST2 (single `.so` file): `~/.vst` or `/usr/lib/vst` (required sudo)
+    * VST3 (folder ends with `.vst3` suffix): `~/.vst3` or `/usr/lib/vst3` (required sudo)
