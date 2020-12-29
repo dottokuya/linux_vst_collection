@@ -1,6 +1,6 @@
 # .tokuya's Linux VST Plugins Collection
 
-Collection of self-compiled Linux VST plugins that I used in my music production.
+Collection of self-compiled Linux VST plugins that I used in my music production. Plugins in this repo are free and open source, under GPL-3 and/or compatible license 
 
 ## Current list:
 - [ToneZ](https://www.retornz.com/plugins/tonez) by Retornz
