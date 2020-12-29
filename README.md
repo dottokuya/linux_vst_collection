@@ -1,6 +1,6 @@
 # .tokuya's Linux VST Plugins Collection
 
-Collection of self-compiled Linux VST plugins that I used in my music production. Plugins in this repo are free and open source, under GPL-3 and/or compatible license.
+Collection of self-compiled Linux VST plugins that I used in my music production.
 
 **This repo contains only Linux binaries of said plugins. They usually have pre-built Windows and Mac binaries at their own repos.**
 
@@ -25,3 +25,6 @@ Run `git pull` at repo's directory or manually check this repo from time to time
 
 ## Issue/Bug report
 I'd suggest open an issue/bug report on plugins repo/forum first, as developers does keep their eye on Linux and will help you debugging and resolve problem. Otherwise, if you think your problem is platform specific, feel free to open an issue here and I'll try to figure out
+
+## License
+Most plugins in this repo are licensed under GPL-3 and/or compatible license.
