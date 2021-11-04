@@ -1,10 +1,10 @@
-# .tokuya's Linux VST Plugins Collection
+# (DEPRECATED).tokuya's Linux VST Plugins Collection
 
-Collection of self-compiled Linux VST plugins that I used in my music production.
+Collection of self-compiled Linux VST plugins that I used in my music production. These plugins were built on a VM running Ubuntu 18.04.
 
-**This repo contains only Linux binaries of said plugins. They usually have pre-built Windows and Mac binaries at their own repos.**
+**DEPRECATED NOTE: I'm no longer maintaining this repo. CHOWTapeModel has Debian package on ChowDSP website, M8BP2 and Bitrot suite have fairly simple build process that you can do it your own, and the rest are outdated or difficult to build on recent distros.**
 
-## Current list:
+## List:
 - [ToneZ](https://www.retornz.com/plugins/tonez) by Retornz
 - [SuperSpeard](https://github.com/lkjbdsp/lkjb-plugins/tree/master/SuperSpread) by lkjb
 - [Bitrot Plugins Suite](https://github.com/grejppi/bitrot) by grejppi
@@ -19,12 +19,6 @@ Collection of self-compiled Linux VST plugins that I used in my music production
     * VST2 (single `.so` file): `~/.vst` or `/usr/lib/vst` (required sudo)
     * VST3 (folder ends with `.vst3` suffix): `~/.vst3` or `/usr/lib/vst3` (required sudo)
 - Alternatively, you can set custom path in your DAW to scan all the plugins in the folder without copying (tested on Reaper for Linux)
-
-## Updating
-Run `git pull` at repo's directory or manually check this repo from time to time and simply redownload
-
-## Issue/Bug report
-I'd suggest open an issue/bug report on plugins repo/forum first, as developers does keep their eye on Linux and will help you debugging and resolve problem. Otherwise, if you think your problem is platform specific, feel free to open an issue here and I'll try to figure out
 
 ## License
 Most plugins in this repo are licensed under GPL-3 and/or compatible license.
